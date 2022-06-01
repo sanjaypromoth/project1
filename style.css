@@ -1,0 +1,47 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-image: url('./images/background-adare-restaurant.jpg');
+    background-size: center;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+header{
+    height: 118px;
+    width: 1024px;
+}
+nav{
+    height: 40px;
+    width: 1024px;
+}
+main{
+    height: 400px;
+    width: 1024px;
+}
+footer{
+    height: 100px;
+    width: 1024px;
+}
+.map{
+
+        height: 200px;
+        width: 300px;
+}
+.der{
+    width: 40%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+h1{
+    font-size: 52px;
+}
+a{
+    color: white;
+    text-transform: uppercase;
+}
+.content{
+    margin-bottom: 70px;
+}
